@@ -1,0 +1,16 @@
+
+User Role:
+
+https://github.com/plataformatec/devise/wiki/How-To:-Add-an-Admin-Role
+
+https://github.com/plataformatec/devise/wiki/How-To:-Add-a-default-role-to-a-User
+
+http://stackoverflow.com/questions/32158836/how-to-add-roles-to-my-users-in-rails-app
+
+User Devise Cancancan:
+
+http://stackoverflow.com/questions/39116137/how-can-i-add-a-role-to-a-user-devise-cancancan
+
+User Devise Admin Cancancan:
+
+http://codepany.com/blog/rails-5-user-accounts-with-3-types-of-roles-devise-rails_admin-cancancan/
